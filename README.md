@@ -135,6 +135,11 @@ agents:
         - "tool_name"
 ```
 
+## (OUTPUT EXAMPLE)
+
+![image](https://github.com/user-attachments/assets/a769bccb-d364-4d84-9bb5-c42a3b16f9b1)
+
+
 ## Dependencies
 
 - cdp-sdk: Handles blockchain transactions
